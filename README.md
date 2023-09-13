@@ -1,2 +1,2 @@
 # CP-code-library
-DSA template for Programming Contest
+This is my personal code library
